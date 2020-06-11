@@ -1,7 +1,0 @@
-import urllib.request
-import pandas as pd
-
-df get_html(url):
-  url = 
-  pattern = 
-  response =
